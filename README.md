@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [http://demo.traditionalme.life](hello)
+- 👨‍💻 All of my projects are available at [supun's workspace]((http://demo.traditionalme.life)
 
 - 💬 Ask me about **Java, Python and PHP**
 
