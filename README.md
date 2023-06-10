@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **supunnanayakkara01@gmail.com**
 
-- 📄 Know about my experiences [http://demo.traditionalme.life/#resume](http://demo.traditionalme.life/#resume)
+- 📄 Know about my experiences [my workspace](http://demo.traditionalme.life/#resume)
 
 - ⚡ Fun fact **I think I'm funny**
 
