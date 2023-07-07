@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [supun's workspace](http://demo.traditionalme.life)
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
 - 💬 Ask me about **Java, Python and PHP**
 
 - 📫 How to reach me **supunnanayakkara01@gmail.com**
 
-- 📄 Know about my experiences [my experiences](http://demo.traditionalme.life/#resume)
+- 📄 Know about my experiences [my experiences](http://supun.traditionalme.life/#resume)
 
 - ⚡ Fun fact **I think I'm funny**
 
