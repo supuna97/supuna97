@@ -72,6 +72,6 @@
 </p>
 <br/>
 
-- Achievements
+<h3 align="left">Achievements</h3>
 
 [![An image of @supuna97's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/supuna97)](https://holopin.io/@supuna97)
