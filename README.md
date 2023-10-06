@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
-- 💬 Ask me about **Java, Python, PHP and Node**
+- 💬 Ask me about **Java, Python, PHP and NodeJS**
 
 - 📫 How to reach me **supunnanayakkara01@gmail.com**
 
