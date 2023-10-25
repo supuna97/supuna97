@@ -11,7 +11,7 @@
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<br>
+<br><br>
 
 - 🔭 I’m currently working on **UA IT(JKH IT)**
 
@@ -27,6 +27,7 @@
 
 - ⚡ Fun fact **I think I'm funny**
 
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
