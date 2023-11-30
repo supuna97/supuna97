@@ -42,6 +42,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+<div align="center">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="85" height="85" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="85" height="85" />
+</div>
+
+<div  align="center" ><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="85" height="85" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="85" height="85" />
+</div>
+
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
